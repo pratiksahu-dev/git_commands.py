@@ -1,0 +1,20 @@
+60  touch github-for-devops
+   61  git init
+   62  git status
+   63  git status github-for-devops
+   64  git add github-for-devops
+   65  git status github-for-devops
+   66  git commit -m "add github-for-devops"
+   67  rm -rf ~/.git
+   68  cd ~/github-for-devops
+   69  pwd
+   70  git ststus
+   71  git status
+   72  git log --online
+   73  git log --oneline
+   74  git remote -v
+   75  git branch -M main
+   76  git push -u origin main
+   77  git remote set-url origin https://github.com/pratiksahu-dev/git_commands.py.git
+   78  git remote -v
+   79  git push -u origin main
