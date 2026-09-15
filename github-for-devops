@@ -18,3 +18,5 @@
    77  git remote set-url origin https://github.com/pratiksahu-dev/git_commands.py.git
    78  git remote -v
    79  git push -u origin main
+
+this is something i changed , check it on ubantu
